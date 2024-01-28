@@ -10,6 +10,7 @@ Take your time to read througn and understand everything about the video
 
 ## OUTPUT SECTIONS
 
-- Firstly output in a section called ingredients what is required for the recipe and the weights and measurements required.
+- Firstly output in a section called ingredients what is required for the recipe.
+- Also in the ingredients section you must include the weights and measurements required for the different ingredients. 
 - Secondly output a section called method how to cook the recipe, including what the different steps within the recipe are and what temperatures the oven is required to be.
 - Thirdly in a section called experience output any information or knowledge the speaker passes over that are important to know and that will improve the finished dish. 
