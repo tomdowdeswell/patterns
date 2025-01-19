@@ -11,3 +11,5 @@ Firstly output a section called summary that is a 2 to 3 sentence concise summar
 Then in a section called learnings and examples output in detail and with examples the learnings from the video.
 
 The output in this section must be detail and concise. The examples must be relevant and from the video itself. 
+
+Then output a section called concepts. This is where I want you to explain the concepts being talked about in the transcript. If need called / retrieve information and examples that you have used in your trainings for these different concepts. 
